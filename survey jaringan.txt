@@ -1,0 +1,57 @@
+SURVEI JARINGAN — T-AIMS
+
+1. Informasi Survei
+
+Nama Survei: Survei Perangkat Jaringan
+Petugas: Ananda Dwi Susanti
+Tanggal: 13 Oktober 2026
+Tujuan: Mendata perangkat jaringan dan menyiapkan Monitoring Engine.
+
+2. Informasi Jaringan Laptop
+
+Nama Adapter: Qualcomm Atheros QCA9377 Wireless Network Adapter
+IPv4 Address: 192.168.0.120
+Subnet Mask: 255.255.255.0
+Default Gateway: 192.168.0.1
+DHCP Server: 192.168.0.1
+DNS Server: 192.168.0.1
+
+Subnet yang teridentifikasi: 192.168.0.0/24
+
+3. Hasil Pengujian Gateway
+
+IP tujuan: 192.168.0.1
+Metode: Ping ICMP
+Paket dikirim: 4
+Paket diterima: 4
+Paket hilang: 0
+Packet Loss: 0%
+Waktu respons minimum: 3 ms
+Waktu respons maksimum: 7 ms
+Waktu respons rata-rata: 5 ms
+
+Status pengujian: Gateway merespons ping.
+
+4. Hasil Pemeriksaan ARP
+
+IP Address: 192.168.0.1
+MAC Address: 74-da-88-d9-0b-74
+Jenis entri: Dynamic
+
+5. Catatan Survei
+
+Rentang IP 192.168.1.x yang disebutkan dalam instruksi belum terverifikasi.
+
+Perlu dilakukan identifikasi jaringan dan pencatatan IP Address perangkat berdasarkan hasil survei yang sah.
+
+6. Daftar Perangkat
+
+1. Router 1 — IP belum diketahui.
+2. Router 2 — IP belum diketahui.
+3. Router 3 — IP belum diketahui.
+4. PC kantor — IP belum diketahui.
+5. TV — IP belum diketahui.
+6. CCTV — IP belum diketahui.
+7. Server — IP belum diketahui.
+8. Perangkat tambahan — perlu diidentifikasi.
+9. Perangkat tambahan — perlu diidentifikasi.

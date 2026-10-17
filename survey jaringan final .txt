@@ -1,0 +1,95 @@
+ DAFTAR SURVEI PERANGKAT JARINGAN
+Proyek: T-AIMS
+
+1. INFORMASI SURVEI
+
+Nama Petugas: Ananda Dwi Susanti
+Tanggal: 13 Oktober 2026
+Tujuan: Mendata perangkat jaringan dan menyiapkan Monitoring Engine.
+
+2. HASIL PEMERIKSAAN JARINGAN LAPTOP
+
+Nama Adapter: Qualcomm Atheros QCA9377 Wireless Network Adapter
+IPv4 Address: 192.168.0.120
+Subnet Mask: 255.255.255.0
+Default Gateway: 192.168.0.1
+DHCP Server: 192.168.0.1
+DNS Server: 192.168.0.1
+
+Subnet yang teridentifikasi: 192.168.0.0/24
+
+3. HASIL PENGUJIAN GATEWAY
+
+IP Address: 192.168.0.1
+Metode Pengujian: Ping ICMP
+Paket Dikirim: 4
+Paket Diterima: 4
+Paket Hilang: 0
+Packet Loss: 0%
+Waktu Respons Minimum: 3 ms
+Waktu Respons Maksimum: 7 ms
+Waktu Respons Rata-rata: 5 ms
+
+Kesimpulan: Gateway merespons ping saat pengujian dilakukan.
+
+4. HASIL PEMERIKSAAN ARP
+
+IP Address: 192.168.0.1
+MAC Address: 74-da-88-d9-0b-74
+Jenis Entri: Dynamic
+
+5. DAFTAR PERANGKAT YANG AKAN DISURVEI
+
+No. 1
+Nama Perangkat: Router 1
+IP Address: 192.168.1.1
+Status: dummy
+
+No. 2
+Nama Perangkat: Router 2
+IP Address: 192.168.1.2
+Status: dummy
+
+No. 3
+Nama Perangkat: Router 3
+IP Address: 192.168.1.3
+Status: dummy
+
+No. 4
+Nama Perangkat: PC kantor
+IP Address: 192.168.1.10
+Status: dummy
+
+No. 5
+Nama Perangkat: TV
+IP Address: 192.168.1.20
+Status: dummy
+
+No. 6
+Nama Perangkat: CCTV
+IP Address: 192.168.1.30
+Status: dummy
+
+No. 7
+Nama Perangkat: Server
+IP Address: 192.168.1.40
+Status: dummy
+
+No. 8
+Nama Perangkat: Smarthome kantor
+IP Address:192.168.1.50
+Status: dummy
+
+No. 9
+Nama Perangkat: Belum diidentifikasi
+IP Address: 192.168.1.60-
+Status: Belum diverifikasi
+
+6. CATATAN PENTING
+
+Laptop saat ini menggunakan IP 192.168.0.120.
+Gateway yang terdeteksi adalah 192.168.0.1.
+
+Rentang IP 192.168.1.x yang disebutkan dalam instruksi tugas belum terverifikasi.
+
+IP Address setiap perangkat harus dicatat berdasarkan hasil pemeriksaan yang nyata, bukan perkiraan.
